@@ -1,28 +1,9 @@
-# Node.js API with Serverless Framework in AWS Environment
+# Serverless Framework Node HTTP API on AWS
 
-![GitHub](https://img.shields.io/github/license/GabrielFerreiraDoPrado/nodejs-serverless-aws) ![GitHub top language](https://img.shields.io/github/languages/top/GabrielFerreiraDoPrado/nodejs-serverless-aws)
+This template demonstrates how to make a simple HTTP API with Node.js running on AWS Lambda, DynamoDB and API Gateway using the Serverless Framework.
+I tried to create a Blog Post with two arguments: Title and a Content. 
 
-# About the Project
-
-This project was developed during the Cloud Fullstack Bootcamp, made by [Digital Innovation One](https://www.dio.me/). It is an AWS Cloud Infrastructure with API Gateway, DynamoDB, AWS Lambda and AWS CloudFormation using the Serverless framework to a development based on Infrastructure as Code (IaC).
-
-## Objectives
- 
-• Utilize the Serverless Framework
-
-• Study the AWS Environment
-
-# Tools
-
-• NodeJS
-
-• Amazon Web Services
-
-• Postman
-
-<span>![Tools](https://github.com/GabrielFerreiraDoPrado/assets/blob/main/nodejs-serverless-aws/tools.png)</span>
+For more information abou the serrvers framework 
 
 
-# Author
 
-[My profile](https://www.linkedin.com/in/gabriel-ferreira-do-prado/) on LinkedIn
